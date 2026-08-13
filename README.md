@@ -34,6 +34,9 @@ colorida no título.
 
 ## Deploy
 
+Conectado ao GitHub: push na `main` dispara deploy de produção automaticamente.
+Para subir manualmente:
+
 ```bash
 vercel deploy --prod
 ```
